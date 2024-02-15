@@ -1,16 +1,32 @@
-# mission_3
+![image](./lib/assets/estacio.png)
 
-A new Flutter project.
+**Nome:** Jonathan Araujo - 202205178111@alunos.estacio.br\
+**Curso:** Desenvolvimento Full Stack\
+**Turma:** 2023.4\
+**Professor:** Altamira de Souza Queiroz\
+**Disciplina:** Lidando com sensores em dispositivos móveis
 
-## Getting Started
+# Missão Prática Nível 3 Mundo 4
 
-This project is a starting point for a Flutter application.
+## 🎯 Objetivo do desenvolvimento
 
-A few resources to get you started if this is your first Flutter project:
+Para uma melhoria na eficiência e na comunicação interna, a empresa “Doma” quer
+desenvolver um aplicativo Wear OS para assistência aos funcionários que têm
+necessidades especiais, uma forma de solidificar a interação entre os mesmos.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Assim, com os aplicativos wearables podem usar áudio para fornecer informações em
+tempo real, como leitura de mensagens de texto, notificações, lembretes e respostas a
+comandos de voz. Isso pode ser especialmente útil para pessoas com deficiência
+visual.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Ferramentas utilizaddas
+
+- Linguagem de programação: Dart;
+- Framework: Flutter; e
+- Versionado através do Git / Github
+
+## 📚 Orientações para executar o app
+
+- Recomendo utilizar o Android Studio para a execução do app. Abra o arquvio principal **main.dart** (dentro da pasta 'lib') e execute o run neste, com o emulador aberto no próprio studio.
+- Se estiver utilizando o VSCode para rodar este app, abra o emulador fora do editor de código e execute da mesma maneira o arquivo**main.dart** (dentro da pasta 'lib').
+- Lembro que, por se tratar de um app wearable, deve-se iniciar o emulador como um smartwatch (ou utilizar um físico, caso possua).
