@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772955575977",
+    "project_id": "doma-acessibilidade",
+    "storage_bucket": "doma-acessibilidade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772955575977:android:6a337dbdab36f0d8b3fbb8",
+        "android_client_info": {
+          "package_name": "com.example.mission_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwZbJeqd8FGUK0wbeeg6PBPRMy0s4LAso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
